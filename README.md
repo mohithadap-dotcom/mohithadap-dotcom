@@ -228,31 +228,6 @@ Building production-style full-stack and AI-enabled applications through indepen
 
 ---
 
-## 📜 Certifications
-
-> Certifications and coursework badges to be added here as they are completed.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Add%20Your%20Certification-6D28D9?style=flat-square&labelColor=1a1a2e"/>
-
-</div>
-
----
-
-## 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/your-leetcode"><img src="https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
-<a href="https://geeksforgeeks.org/user/your-gfg"><img src="https://img.shields.io/badge/GeeksforGeeks-1a1a2e?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/></a>
-<a href="https://hackerrank.com/your-hackerrank"><img src="https://img.shields.io/badge/HackerRank-1a1a2e?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/></a>
-<a href="https://codechef.com/users/your-codechef"><img src="https://img.shields.io/badge/CodeChef-1a1a2e?style=for-the-badge&logo=codechef&logoColor=5B4638"/></a>
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
