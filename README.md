@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Mohit%20Hadap&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20%26%20AI-Enabled%20Web%20Applications&descAlignY=55&descSize=20" width="100%"/>
+<img src="./assets/profile-banner.png" width="100%" alt="Mohit Hadap — Full-Stack Developer and AI/ML Engineer"/>
 
 <br/>
 
@@ -96,6 +96,36 @@ Open To:
 | **Data Modeling for AI Systems** | ⭐⭐⭐ | Supabase/PostgreSQL schema design supporting AI-generated data and evidence pipelines |
 
 </div>
+
+---
+
+## 🛡️ Latest: Security4Her
+
+<p align="center">
+  <a href="https://security4her.vercel.app"><img src="./assets/security4her-showcase.png" width="100%" alt="Security4Her on four Android phone screens and a Wear OS watch"/></a>
+</p>
+
+<table>
+<tr>
+<td width="36%" align="center"><a href="https://security4her.vercel.app"><img src="./assets/security4her-tour.gif" width="250" alt="Security4Her app tour showing the home screen, quick actions, and SOS workflow"/></a></td>
+<td valign="middle">
+
+**A women's safety system for Android and Wear OS.** One press, one knock, or three words—and help is on its way. Built with team **OBSIDIAN**.
+
+- **One trigger, five actions:** SMS with location, a live map, audio and video evidence, an automatic call, and location texts for contacts without data
+- **Five ways to raise it:** hold SOS, use the watch button or a shake, say *“HELP HELP HELP”* to the watch, knock three times through a pocket, or miss a Safe Journey check-in
+- **Offline Voice SOS:** runs entirely on the watch with Vosk; tuned on 276 street-noise recordings with zero false triggers
+- **Tamper-resistant evidence:** chained SHA-256 fingerprints with a 24-hour deletion lock
+- **Self-maintaining setup:** the phone installs the watch app over Wi-Fi once, after which both apps update themselves
+
+<a href="https://security4her.vercel.app"><img src="https://img.shields.io/badge/Install-security4her.vercel.app-FF4D5E?style=flat&labelColor=1a1a2e" alt="Install Security4Her"/></a>
+<img src="https://img.shields.io/badge/Kotlin-1a1a2e?style=flat&logo=kotlin&logoColor=7F52FF" alt="Kotlin"/>
+<img src="https://img.shields.io/badge/Wear_OS-1a1a2e?style=flat&logo=wearos&logoColor=4285F4" alt="Wear OS"/>
+<img src="https://img.shields.io/badge/Version-1.0.0-21262D?style=flat&labelColor=1a1a2e" alt="Version 1.0.0"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
