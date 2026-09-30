@@ -243,26 +243,6 @@ Building production-style full-stack and AI-enabled applications through indepen
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohithadap-dotcom&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=10&column=7"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohithadap-dotcom&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
