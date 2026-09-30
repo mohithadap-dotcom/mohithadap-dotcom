@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./assets/profile-banner.png" width="100%" alt="Mohit Hadap — Full-Stack Developer and AI/ML Engineer"/>
-
-<br/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI%2FComputer+Vision+Engineer;Civic-Tech+%26+Geospatial+Builder;Hackathon+Prototyper;Open+Source+Contributor" alt="Typing SVG" />
 </a>
