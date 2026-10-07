@@ -127,100 +127,70 @@ Open To:
 
 ## 🚀 Featured Projects
 
-<details>
-<summary><b>🔹 NagarNetra — AI-Powered Civic Accountability Platform</b></summary>
-<br/>
+Security4Her is highlighted above as my latest build. Here are the other projects that best represent my recent work across emergency response, climate technology, edge AI, civic technology, and peer learning.
 
-A civic infrastructure platform for pothole reporting, AI-based detection, legal complaint generation, live maps, dashboards, contractor tracking, and repair verification.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mohithadap-dotcom/Emergency-Triage-Hospital-Command-System">
+        <img src="./assets/rakshak-ai-showcase.png" width="100%" alt="Rakshak AI emergency triage and hospital command platform"/>
+      </a>
+      <h3 align="center">Rakshak AI</h3>
+      <p align="center"><strong>Emergency Triage & Hospital Command System</strong></p>
+      <p>A multi-portal emergency operations prototype connecting state command teams, hospitals, and ambulances through live incidents, GIS, capacity coordination, AI-assisted triage, and disaster-command workflows.</p>
+      <p><code>React 19</code> <code>TypeScript</code> <code>Express</code> <code>Supabase</code> <code>Gemini</code></p>
+      <p align="center"><a href="https://github.com/mohithadap-dotcom/Emergency-Triage-Hospital-Command-System"><strong>View repository →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mohithadap-dotcom/CarbonLedger">
+        <img src="./assets/carbonledger-showcase.png" width="100%" alt="CarbonLedger live carbon-credit operations dashboard"/>
+      </a>
+      <h3 align="center">CarbonLedger</h3>
+      <p align="center"><strong>Carbon Credit Marketplace & MRV Platform</strong></p>
+      <p>A live registry for emissions monitoring, report verification, carbon-credit issuance, trading, and retirement, backed by a tamper-evident SHA-256 hash chain and real-time Server-Sent Events.</p>
+      <p><code>React 19</code> <code>TypeScript</code> <code>Node.js</code> <code>SSE</code> <code>Groq</code></p>
+      <p align="center"><a href="https://github.com/mohithadap-dotcom/CarbonLedger"><strong>View repository →</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mohithadap-dotcom/Rasberi-pi-vehicles-detection">
+        <img src="./assets/vehicle-detection-showcase.png" width="100%" alt="Raspberry Pi real-time YOLOv8 vehicle detection"/>
+      </a>
+      <h3 align="center">Raspberry Pi Vehicle Detection</h3>
+      <p align="center"><strong>Real-time Edge-AI Vehicle Tracking</strong></p>
+      <p>A lightweight camera pipeline that runs YOLOv8 Nano multi-object tracking for cars, motorcycles, buses, and trucks, with Raspberry Pi CSI-camera support and a USB-webcam fallback.</p>
+      <p><code>Python</code> <code>YOLOv8</code> <code>OpenCV</code> <code>Picamera2</code> <code>Raspberry Pi</code></p>
+      <p align="center"><a href="https://github.com/mohithadap-dotcom/Rasberi-pi-vehicles-detection"><strong>View repository →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mohithadap-dotcom/Nagar-Netra-New">
+        <img src="./assets/nagarnetra-showcase.png" width="100%" alt="NagarNetra AI-powered civic road accountability platform"/>
+      </a>
+      <h3 align="center">NagarNetra</h3>
+      <p align="center"><strong>AI-Powered Civic Road Accountability</strong></p>
+      <p>A pothole-reporting workflow that turns road photos into severity assessments, evidence records, RTI-style complaints, live map entries, contractor accountability, and repair verification.</p>
+      <p><code>Next.js 15</code> <code>FastAPI</code> <code>YOLOv8</code> <code>Gemini</code> <code>Supabase</code></p>
+      <p align="center"><a href="https://github.com/mohithadap-dotcom/Nagar-Netra-New"><strong>View repository →</strong></a></p>
+    </td>
+  </tr>
+</table>
 
-| Attribute | Details |
-|---|---|
-| **Stack** | FastAPI, YOLOv8, OpenCV, Gemini API, Supabase, PostgreSQL, React |
-| **Scale** | End-to-end pipeline from citizen report to verified repair, spanning detection, legal, and tracking modules |
-| **Performance** | Automated severity classification with GPS metadata tagging for faster triage |
-| **Security** | SHA-256 evidence hashing and Supabase-backed data integrity for tamper-resistant reporting |
-| **Impact** | Streamlines civic complaint generation using Gemini-powered RTI drafting, reducing manual reporting effort |
-| **Repository** | [Nagar-Netra-New](https://github.com/mohithadap-dotcom/Nagar-Netra-New) |
-
-Built a FastAPI-based detection service integrating YOLOv8 and OpenCV for pothole identification, paired with a severity classification layer, GPS-tagged evidence capture, and a Gemini-driven legal complaint generator — all backed by a Supabase data model connecting citizens, contractors, and repair verification workflows.
-
-</details>
-
-<details>
-<summary><b>🔹 Rakshak AI — Maharashtra Emergency Operations Center</b></summary>
-<br/>
-
-A React/Vite emergency response platform for multi-hospital coordination, ambulance operations, disaster command, incident analytics, and resource allocation.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | React, Vite, TypeScript, Express.js, Gemini API, PostgreSQL, Supabase |
-| **Scale** | Coordinates operations across multiple hospitals with unified incident and resource tracking |
-| **Performance** | Structured emergency data stores enabling real-time coordination across command modules |
-| **Security** | Normalized schema design with Supabase/PostgreSQL for reliable, consistent emergency data |
-| **Impact** | Gemini AI-driven triage and hospital recommendation logic to support faster emergency decision-making |
-| **Repository** | [6AUG-PS-AI-Powered-National-Emergency-Triage-Hospital-Command-System](https://github.com/mohithadap-dotcom/6AUG-PS-AI-Powered-National-Emergency-Triage-Hospital-Command-System) |
-
-Developed the Express/TypeScript backend powering AI-driven triage and hospital recommendations, alongside a React/Vite frontend for disaster command, ambulance operations, and incident analytics — built during a hackathon under tight time constraints.
-
-</details>
-
-<details>
-<summary><b>🔹 SkillSwap — AI Peer Learning Marketplace</b></summary>
-<br/>
-
-A Next.js marketplace for engineering students to analyze GitHub profiles, identify technical strengths, match with peer learners, and start collaborative learning sessions.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | Next.js, Supabase, Chart.js, Leaflet, Jitsi |
-| **Scale** | Combines profile analysis, skill matching, and live session tooling in a single platform |
-| **Performance** | Chart.js-based skill dashboards for quick visual comparison of strengths |
-| **Security** | Supabase authentication securing user profiles and session access |
-| **Impact** | Helps students discover peers with complementary skills and start live collaborative sessions |
-| **Repository** | [skills-swap-git-](https://github.com/mohithadap-dotcom/skills-swap-git-) |
-
-Implemented GitHub-profile analysis flows to surface a student's technical strengths, built skill-matching and dashboard visualizations with Chart.js, added Leaflet-based city skill maps, and embedded Jitsi for live peer learning sessions.
-
-</details>
-
-<details>
-<summary><b>🔹 Muscle Major — Full Stack Fitness Platform</b></summary>
-<br/>
-
-A responsive fitness platform with calorie/macro calculators, an interactive muscle map, progress tracking, workout modules, trainer profiles, booking flow, and live chat support.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | React.js, Vercel |
-| **Scale** | Covers calculators, tracking, trainer booking, and chat in one deployed platform |
-| **Performance** | Client-side interactive muscle map and calculators for instant feedback |
-| **Security** | Login-based access for personalized progress tracking |
-| **Impact** | Provides an end-to-end fitness experience from goal-setting to trainer booking |
-| **Repository** | [View on GitHub](https://github.com/mohithadap-dotcom) |
-
-Designed and deployed a fully responsive fitness platform featuring an interactive muscle map, goal-based workout modules, and a trainer booking flow with live chat support, built end-to-end in React.js and deployed on Vercel.
-
-</details>
-
-<details>
-<summary><b>🔹 IoT-Based Vehicle Safety System (ADAS Prototype)</b></summary>
-<br/>
-
-An ESP32-based vehicle safety prototype for real-time obstacle detection and proximity alerts.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | ESP32, Ultrasonic Sensors, Embedded C/C++ |
-| **Scale** | Real-time sensor-driven obstacle detection on embedded hardware |
-| **Performance** | Low-latency proximity alerting via direct sensor-to-microcontroller pipeline |
-| **Security** | N/A — embedded hardware prototype |
-| **Impact** | Strengthened embedded hardware-software integration and wireless communication fundamentals |
-| **Repository** | [View on GitHub](https://github.com/mohithadap-dotcom) |
-
-Built an ESP32-based ADAS prototype for real-time obstacle detection using ultrasonic sensors, focused on low-level embedded C/C++ programming and sensor-to-alert pipelines.
-
-</details>
+<table>
+  <tr>
+    <td width="42%" align="center" valign="middle">
+      <a href="https://github.com/mohithadap-dotcom/skills-swap-git-">
+        <img src="./assets/skillswap-showcase.png" width="100%" alt="SkillSwap AI-assisted peer learning marketplace"/>
+      </a>
+    </td>
+    <td valign="middle">
+      <h3>SkillSwap — AI Peer Learning Marketplace</h3>
+      <p>Analyzes public GitHub profiles, creates seven-domain skill profiles, matches students with complementary peers, maps local learning communities, and opens live Jitsi learning rooms.</p>
+      <p><code>Next.js 16</code> <code>React 19</code> <code>Groq</code> <code>Supabase</code> <code>Leaflet</code> <code>Jitsi</code></p>
+      <p><a href="https://github.com/mohithadap-dotcom/skills-swap-git-"><strong>View repository →</strong></a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
