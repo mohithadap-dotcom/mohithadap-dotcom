@@ -12,8 +12,7 @@
 
 <br/><br/>
 
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohit-hadap-56213139b/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mohit.hadap@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/mohithadap-dotcom"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/></a>
 
@@ -125,72 +124,123 @@ Open To:
 
 ---
 
-## 🚀 Featured Projects
+<p align="center">
+  <img src="./assets/featured-projects-banner.png" width="100%" alt="Featured projects — selected work across applied AI, full-stack engineering, civic technology, climate technology, and edge computing"/>
+</p>
 
-Security4Her is highlighted above as my latest build. Here are the other projects that best represent my recent work across emergency response, climate technology, edge AI, civic technology, and peer learning.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20Computer%20Vision-7C3AED?style=for-the-badge&labelColor=17152D" alt="AI and Computer Vision"/>
+  <img src="https://img.shields.io/badge/Full--Stack%20Systems-0E7490?style=for-the-badge&labelColor=17152D" alt="Full-stack systems"/>
+  <img src="https://img.shields.io/badge/Real--World%20Impact-BE123C?style=for-the-badge&labelColor=17152D" alt="Real-world impact"/>
+</p>
+
+<p align="center"><sub>Security4Her is the latest launch highlighted above. These projects represent my strongest recent work across software, AI, and connected systems.</sub></p>
+
+<br/>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="45%" align="center" valign="middle">
       <a href="https://github.com/mohithadap-dotcom/Emergency-Triage-Hospital-Command-System">
         <img src="./assets/rakshak-ai-showcase.png" width="100%" alt="Rakshak AI emergency triage and hospital command platform"/>
       </a>
-      <h3 align="center">Rakshak AI</h3>
-      <p align="center"><strong>Emergency Triage & Hospital Command System</strong></p>
-      <p>A multi-portal emergency operations prototype connecting state command teams, hospitals, and ambulances through live incidents, GIS, capacity coordination, AI-assisted triage, and disaster-command workflows.</p>
+    </td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/01-EMERGENCY%20RESPONSE-0E7490?style=flat-square&labelColor=0D1117" alt="Project 1 — Emergency response"/>
+      <h3>Rakshak AI</h3>
+      <p><strong>Emergency Triage & Hospital Command System</strong></p>
+      <p>A multi-portal command platform connecting state operations teams, hospitals, and ambulances through live incidents, GIS, capacity coordination, AI-assisted triage, and disaster workflows.</p>
       <p><code>React 19</code> <code>TypeScript</code> <code>Express</code> <code>Supabase</code> <code>Gemini</code></p>
-      <p align="center"><a href="https://github.com/mohithadap-dotcom/Emergency-Triage-Hospital-Command-System"><strong>View repository →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/mohithadap-dotcom/CarbonLedger">
-        <img src="./assets/carbonledger-showcase.png" width="100%" alt="CarbonLedger live carbon-credit operations dashboard"/>
-      </a>
-      <h3 align="center">CarbonLedger</h3>
-      <p align="center"><strong>Carbon Credit Marketplace & MRV Platform</strong></p>
-      <p>A live registry for emissions monitoring, report verification, carbon-credit issuance, trading, and retirement, backed by a tamper-evident SHA-256 hash chain and real-time Server-Sent Events.</p>
-      <p><code>React 19</code> <code>TypeScript</code> <code>Node.js</code> <code>SSE</code> <code>Groq</code></p>
-      <p align="center"><a href="https://github.com/mohithadap-dotcom/CarbonLedger"><strong>View repository →</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/mohithadap-dotcom/Rasberi-pi-vehicles-detection">
-        <img src="./assets/vehicle-detection-showcase.png" width="100%" alt="Raspberry Pi real-time YOLOv8 vehicle detection"/>
-      </a>
-      <h3 align="center">Raspberry Pi Vehicle Detection</h3>
-      <p align="center"><strong>Real-time Edge-AI Vehicle Tracking</strong></p>
-      <p>A lightweight camera pipeline that runs YOLOv8 Nano multi-object tracking for cars, motorcycles, buses, and trucks, with Raspberry Pi CSI-camera support and a USB-webcam fallback.</p>
-      <p><code>Python</code> <code>YOLOv8</code> <code>OpenCV</code> <code>Picamera2</code> <code>Raspberry Pi</code></p>
-      <p align="center"><a href="https://github.com/mohithadap-dotcom/Rasberi-pi-vehicles-detection"><strong>View repository →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/mohithadap-dotcom/Nagar-Netra-New">
-        <img src="./assets/nagarnetra-showcase.png" width="100%" alt="NagarNetra AI-powered civic road accountability platform"/>
-      </a>
-      <h3 align="center">NagarNetra</h3>
-      <p align="center"><strong>AI-Powered Civic Road Accountability</strong></p>
-      <p>A pothole-reporting workflow that turns road photos into severity assessments, evidence records, RTI-style complaints, live map entries, contractor accountability, and repair verification.</p>
-      <p><code>Next.js 15</code> <code>FastAPI</code> <code>YOLOv8</code> <code>Gemini</code> <code>Supabase</code></p>
-      <p align="center"><a href="https://github.com/mohithadap-dotcom/Nagar-Netra-New"><strong>View repository →</strong></a></p>
+      <a href="https://github.com/mohithadap-dotcom/Emergency-Triage-Hospital-Command-System"><img src="https://img.shields.io/badge/Explore%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore Rakshak AI repository"/></a>
     </td>
   </tr>
 </table>
 
+<br/>
+
 <table>
   <tr>
-    <td width="42%" align="center" valign="middle">
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/02-CLIMATE%20TECH-15803D?style=flat-square&labelColor=0D1117" alt="Project 2 — Climate technology"/>
+      <h3>CarbonLedger</h3>
+      <p><strong>Carbon Credit Marketplace & MRV Platform</strong></p>
+      <p>A live registry for emissions monitoring, report verification, carbon-credit issuance, trading, and retirement, backed by a tamper-evident SHA-256 hash chain and real-time Server-Sent Events.</p>
+      <p><code>React 19</code> <code>TypeScript</code> <code>Node.js</code> <code>SSE</code> <code>Groq</code></p>
+      <a href="https://github.com/mohithadap-dotcom/CarbonLedger"><img src="https://img.shields.io/badge/Explore%20Repository-15803D?style=for-the-badge&logo=github&logoColor=white" alt="Explore CarbonLedger repository"/></a>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <a href="https://github.com/mohithadap-dotcom/CarbonLedger">
+        <img src="./assets/carbonledger-showcase.png" width="100%" alt="CarbonLedger live carbon-credit operations dashboard"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="45%" align="center" valign="middle">
+      <a href="https://github.com/mohithadap-dotcom/Rasberi-pi-vehicles-detection">
+        <img src="./assets/vehicle-detection-showcase.png" width="100%" alt="Raspberry Pi real-time YOLOv8 vehicle detection"/>
+      </a>
+    </td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/03-EDGE%20AI-BE123C?style=flat-square&labelColor=0D1117" alt="Project 3 — Edge AI"/>
+      <h3>Raspberry Pi Vehicle Detection</h3>
+      <p><strong>Real-time YOLOv8 Multi-Object Tracking</strong></p>
+      <p>A lightweight camera pipeline that tracks cars, motorcycles, buses, and trucks with Raspberry Pi CSI-camera support and an automatic USB-webcam fallback.</p>
+      <p><code>Python</code> <code>YOLOv8</code> <code>OpenCV</code> <code>Picamera2</code> <code>Raspberry Pi</code></p>
+      <a href="https://github.com/mohithadap-dotcom/Rasberi-pi-vehicles-detection"><img src="https://img.shields.io/badge/Explore%20Repository-BE123C?style=for-the-badge&logo=github&logoColor=white" alt="Explore Raspberry Pi Vehicle Detection repository"/></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/04-CIVIC%20TECH-D97706?style=flat-square&labelColor=0D1117" alt="Project 4 — Civic technology"/>
+      <h3>NagarNetra</h3>
+      <p><strong>AI-Powered Civic Road Accountability</strong></p>
+      <p>A pothole-reporting workflow that transforms road photos into severity assessments, evidence records, RTI-style complaints, live map entries, contractor accountability, and repair verification.</p>
+      <p><code>Next.js 15</code> <code>FastAPI</code> <code>YOLOv8</code> <code>Gemini</code> <code>Supabase</code></p>
+      <a href="https://github.com/mohithadap-dotcom/Nagar-Netra-New"><img src="https://img.shields.io/badge/Explore%20Repository-D97706?style=for-the-badge&logo=github&logoColor=white" alt="Explore NagarNetra repository"/></a>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <a href="https://github.com/mohithadap-dotcom/Nagar-Netra-New">
+        <img src="./assets/nagarnetra-showcase.png" width="100%" alt="NagarNetra AI-powered civic road accountability platform"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="45%" align="center" valign="middle">
       <a href="https://github.com/mohithadap-dotcom/skills-swap-git-">
         <img src="./assets/skillswap-showcase.png" width="100%" alt="SkillSwap AI-assisted peer learning marketplace"/>
       </a>
     </td>
     <td valign="middle">
-      <h3>SkillSwap — AI Peer Learning Marketplace</h3>
+      <img src="https://img.shields.io/badge/05-EDTECH-7C3AED?style=flat-square&labelColor=0D1117" alt="Project 5 — Education technology"/>
+      <h3>SkillSwap</h3>
+      <p><strong>AI-Assisted Peer Learning Marketplace</strong></p>
       <p>Analyzes public GitHub profiles, creates seven-domain skill profiles, matches students with complementary peers, maps local learning communities, and opens live Jitsi learning rooms.</p>
       <p><code>Next.js 16</code> <code>React 19</code> <code>Groq</code> <code>Supabase</code> <code>Leaflet</code> <code>Jitsi</code></p>
-      <p><a href="https://github.com/mohithadap-dotcom/skills-swap-git-"><strong>View repository →</strong></a></p>
+      <a href="https://github.com/mohithadap-dotcom/skills-swap-git-"><img src="https://img.shields.io/badge/Explore%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore SkillSwap repository"/></a>
     </td>
   </tr>
 </table>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/mohithadap-dotcom?tab=repositories"><img src="https://img.shields.io/badge/Browse%20All%20Repositories-1E1B4B?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories"/></a>
+</p>
 
 ---
 
@@ -278,9 +328,8 @@ Open To:
 <div align="center">
 
 <a href="mailto:mohit.hadap@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="www.linkedin.com/in/mohit-hadap-56213139b"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohit-hadap-56213139b/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/mohithadap-dotcom"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
