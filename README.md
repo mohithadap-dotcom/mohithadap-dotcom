@@ -124,9 +124,7 @@ Open To:
 
 ---
 
-<p align="center">
-  <img src="./assets/featured-projects-banner.png" width="100%" alt="Featured projects — selected work across applied AI, full-stack engineering, civic technology, climate technology, and edge computing"/>
-</p>
+## Featured Projects
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20%26%20Computer%20Vision-7C3AED?style=for-the-badge&labelColor=17152D" alt="AI and Computer Vision"/>
